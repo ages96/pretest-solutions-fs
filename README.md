@@ -44,7 +44,7 @@ Menentukan apakah string dari tanda kurung seimbang adalah masalah dasar dalam i
 3. Periksa pasangan tanda kurung pembuka dan penutup yang sesuai dan keluarkan string "YES" atau "NO" sesuai.
 
 ### Fungsi
-- **balancedBrackets($string)**: Fungsi untuk menentukan apakah string tanda kurung seimbang.
+- **isBalanced($string)**: Fungsi untuk menentukan apakah string tanda kurung seimbang.
 
 ## 3. Highest Palindrome
 
